@@ -76,7 +76,7 @@
 	  <div class="col-lg-6 order-lg-1">
             <div class="p-5">
               <h2 class="display-4 text-center">Job Fair</h2>
-              <p>AAAI/ACM SIGAI will be holding their annual job fair at the AAAI annual conference at the Hilton New York Midtown, USA on February TBD, 2020, from TBD&ndash;TBD, with informal meet and greet time beforehand. The job fair is open to all AAAI members, affiliates, and attendees of the AAAI conference.  Attendees are encouraged to submit a CV or r&eacute;sum‌&eacute; for circulation beforehand.</p>
+              <p>AAAI/ACM SIGAI will be holding their annual job fair at the AAAI annual conference at the Hilton Hawaiian Village in Honolulu, Hawaii, USA on January 31, 2019, from 12:30&ndash;3:00PM, with informal meet and greet time beforehand. The job fair is open to all AAAI members, affiliates, and attendees of the AAAI conference.  Attendees are encouraged to submit a CV or r&eacute;sum‌&eacute; for circulation beforehand.</p>
 
 	      <p><strong>Sponsors:</strong></p>
 	      <ul class="list-unstyled">
@@ -94,6 +94,7 @@
 
 	      <p><strong>Organizers:</strong></p>
 	      <ul class="list-unstyled">
+		<li><a href="http://www.ccs.neu.edu/home/camato/">Christopher Amato</a>, Assistant Professor, Northeastern University</li>
 		<li><a href="http://jpdickerson.com">John P Dickerson</a>, Assistant Professor, University of Maryland</li>
 		<li><a href="https://michaelalbert.co">Michael Albert</a>, Assistant Professor, University of Virginia</li>
 	      </ul>
@@ -125,12 +126,9 @@
           <div class="col-lg-6 order-lg-2">
             <div class="p-5">
               <h2 class="display-4  text-center">Participating Companies</h2>
-	      <p>Each of the participating companies will be <strong>giving a 1-minute talk starting at TBD.</strong>  Please come and hear what opportunities are available.
-          <!--  For those companies who wished to make public their presentations, here is a <a href="files/aaai19_job_fair_presentation.pdf">link</a> to those slides.-->
-          </p>
+	      <p>Each of the participating companies will be <strong>giving a 1-minute talk starting at 12:30pm.</strong>  Please come and hear what opportunities are available.  For those companies who wished to make public their presentations, here is a <a href="files/aaai19_job_fair_presentation.pdf">link</a> to those slides.</p>
 	      <ul>
-              <li>TBD</li>
-		<!--<li><a href="https://www.airliquide.com/group/research-development">Air Liquide R&amp;D</a></li>
+		<li><a href="https://www.airliquide.com/group/research-development">Air Liquide R&amp;D</a></li>
 <li><a href="https://amazon.jobs/en/landing_pages/AAAI">Amazon</a></li>
 <li><a href="https://www.asapp.com/">ASAPP</a></li>
 <li><a href="https://www.baidu.com/">Baidu</a></li>
@@ -155,10 +153,10 @@
 <li><a href="https://www.thalesgroup.com/en/americas/canada">Thales CortAIx R&amp;D</a></li>
 <li><a href="https://careers.unity.com/">Unity</a></li>
 <li><a href="https://ai.isi.edu">USC/Information Sciences Institute (ISI)<a/></li>
-<li><a href="https://www.webank.com/">WeBank</a></li>-->
+<li><a href="https://www.webank.com/">WeBank</a></li>
 </ul>
 	      </ul>
-<p>If you are representing a company, research organization or university and would like to participate in the job fair, please send an email with your contact information to <a href="mailto:aaai20jobfair@aaai.org">aaai20jobfair@aaai.org</a>. In addition, all job fair participants must register at the AAAI registration site via the AAAI-20 Conference Site. A small participation fee is required (complimentary or discounted participation is available to certain levels of sponsors and exhibitors).</p>
+<p>If you are representing a company, research organization or university and would like to participate in the job fair, please send an email with your contact information to <a href="mailto:aaai19jobfair@aaai.org">aaai19jobfair@aaai.org</a>. In addition, all job fair participants must register at the AAAI registration site via the AAAI-19 Conference Site. A small participation fee is required (complimentary or discounted participation is available to certain levels of sponsors and exhibitors).</p>
             </div>
           </div>
         </div>
@@ -185,12 +183,10 @@
       </div>
     </section>
 
-
-   
     <!-- Footer -->
     <footer class="py-5 bg-black">
       <div class="container">
-        <p class="m-0 text-center text-white small">Copyright &copy; <a href="http://jpdickerson.com">John Dickerson</a> &amp; <a href="http://www.nickmattei.net/">Nick Mattei</a> 2017&ndash;2020</p>
+        <p class="m-0 text-center text-white small">Copyright &copy; <a href="http://jpdickerson.com">John Dickerson</a> &amp; <a href="http://www.nickmattei.net/">Nick Mattei</a> 2017&ndash;2019</p>
       </div>
       <!-- /.container -->
     </footer>
