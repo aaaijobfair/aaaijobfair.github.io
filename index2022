@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        
+        <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                <meta name="description" content="Official website of the AAAI/ACM SIGAI Job Fair">
+                    <meta name="author" content="John P Dickerson">
+                        
+                        <link rel="apple-touch-icon" sizes="180x180" href="img/icons/apple-touch-icon.png">
+                            <link rel="icon" type="image/png" sizes="32x32" href="img/icons/favicon-32x32.png">
+                                <link rel="icon" type="image/png" sizes="16x16" href="img/icons/favicon-16x16.png">
+                                    <link rel="manifest" href="site.webmanifest">
+                                        <link rel="mask-icon" href="img/icons/safari-pinned-tab.svg" color="#5bbad5">
+                                            <meta name="msapplication-TileColor" content="#da532c">
+                                                <meta name="theme-color" content="#ffffff">
+                                                    
+                                                    <title>AAAI/ACM SIGAI JOB FAIR 2022</title>
+                                                    
+                                                    <!-- Bootstrap core CSS -->
+                                                    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+                                                        
+                                                        <!-- Custom fonts for this template -->
+                                                        <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+                                                            <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+                                                                
+                                                                <!-- Custom styles for this template -->
+                                                                <link href="css/one-page-wonder.min.css" rel="stylesheet">
+                                                                    
+                                                                    </head>
+    
+    <body>
+        
+        <!-- Navigation -->
+        <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
+            <div class="container">
+                <a class="navbar-brand" href="#">AAAI/ACM SIGAI JOB FAIR 2022</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#overview">Overview</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#companies">Companies</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#postings">Postings</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#submit">Submit CV</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        
+        <header class="masthead text-center text-white">
+            <div class="masthead-content">
+                <div class="container">
+                    <h1 class="masthead-heading mb-0">AAAI/SIGAI JOB FAIR</h1>
+                    <h2 class="masthead-subheading mb-0">to be held virtually at AAAI-22</h2>
+                    <a href="https://www.dropbox.com/request/fAhpsvUjHTfNItux5Hd3" class="btn btn-primary btn-xl rounded-pill mt-5">Submit CV or R‌&eacute;sum‌&eacute;!</a>
+                </div>
+            </div>
+            <div class="bg-circle-1 bg-circle"></div>
+            <div class="bg-circle-2 bg-circle"></div>
+            <div class="bg-circle-3 bg-circle"></div>
+            <div class="bg-circle-4 bg-circle"></div>
+        </header>
+        
+        <section>
+            <div class="container">
+                
+                <div class="row align-items-center" id="overview">
+                    <div class="col-lg-6 order-lg-1">
+                        <div class="p-5">
+                            <h2 class="display-4 text-center">Job Fair</h2>
+                            <p>AAAI/ACM SIGAI will be holding their annual job fair at the AAAI annual conference, virtually, on February 26th (10:30 AM&mdash;12:30 PM PST, as well as 6:30&mdash;8:30 PM PST) and on February 27th (2:30 AM&mdash;4:30 AM PST). The job fair is open to all attendees of the AAAI conference.  Attendees are encouraged to submit a CV or r&eacute;sum‌&eacute; for circulation beforehand.</p>
+                            
+                            <p><strong>Sponsors:</strong></p>
+                            <ul class="list-unstyled">
+                                <li>Association for the Advancement of Artificial Intelligence (<a href="https://aaai.org/">AAAI</a>)</li>
+                                <li>ACM Special Interest Group on Artificial Intelligence (<a href="https://sigai.acm.org/">SIGAI</a>)</li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="p-5">
+                            <h2 class="display-4 text-center">Details</h2>
+                            <p>The AAAI/ACM SIGAI job fair is a place for students and professionals looking for internships or jobs to meet with representatives from companies and academia in an informal &quot;meet-and-greet&quot; atmosphere. In the beginning of the event, one representative from each organization has the opportunity to introduce the organization and its job opening(s) for about 1 minute. Afterward, all attendees have a chance to mingle.</p>
+                            
+                            <p><strong>Organizers:</strong></p>
+                            <ul class="list-unstyled">
+                                <li><a href="https://michaelalbert.co">Michael Albert</a>, Assistant Professor, University of Virginia</li>
+                                <li><a href="http://jpdickerson.com">John P Dickerson</a>, Assistant Professor, University of Maryland</li>
+                                <!-- <li><a href="https://drmatttaylor.net/">Matthew E Taylor</a>, Associate Professor, University of Alberta</li> -->
+                                <!-- <li><a href="https://nicknissen.com/">Nick Nissen</a>, Undergraduate Research Assistant, University of Alberta</li> -->
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                <div class="row justify-content-around">
+                    <div class="col-2">
+                        <img class="img-fluid " src="img/AAAI_logo.png" alt="AAAI logo">
+                            </div>
+                    <div class="col-2">
+                        <img class="img-fluid" src="img/SIGAI_logo.png" alt="SIGAI Logo">
+                            </div>
+                </div>
+                
+            </div>
+        </section>
+        
+        <section>
+            <div class="container">
+                <div class="row align-items-center" id="companies">
+                    <div class="col-lg-6 order-lg-1">
+                        <div class="p-5">
+                            <img class="img-fluid rounded-circle" src="img/handshake.jpg" alt="Handshake; image from research.kennesaw.edu.">
+                                </div>
+                    </div>
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="p-5">
+                            <h2 class="display-4  text-center">Participating Companies</h2>
+                            <ul>
+                                <li><a href="https://www.amazon.science/">Amazon Science</a></li>
+                                <li><a href="https://www.hitachi.com/">Hitachi, Ltd.</a></li>
+                                <li><a href="https://ibm.biz/aaai2021">IBM</a></li>
+                                <li><a href="https://www.lxt.ai/">LXT</a></li>
+                                <li><a href="https://www.sony.net/SonyInfo/sony_ai/">Sony</a></li>
+                                <li><a href="https://www.baidu.com/">Baidu</a></li>
+                                <li><a href="https://www.bloomberg.com/company/what-we-do/">Bloomberg</a></li>
+                                <li><a href="https://www.causalens.com/">causaLens</a></li>
+                                <li><a href="https://dataminr.com/aaai">Dataminr</a></li>
+                                <li><a href="https://euler.digital/">Euler Digital SEZC</a></li>
+                                <li><a href="https://research.google/">Google</a></li>
+                                <li><a href="https://www.microsoft.com/">Microsoft</a></li>
+                                <li><a href="https://www.rtx.com/our-company/what-we-do/transformative-technologies/rtrc">Raytheon Technologies Research Center</a></li>
+                                <li><a href="https://wenge.com/">Wenge</a></li>
+                                <li><a href="https://www.isi.edu/">USC Information Sciences Institute (USC/ISI)</a></li>
+                                <li><a href="https://www.humboldt-foundation.de/en/">Alexander von Humboldt Foundation</a></li>
+                                <li><a href="https://www.cambridge.org/">Cambridge University Press</a></li>
+                                <li><a href="https://i2kconnect.com/">i2k Connect</a></li>
+                                <li><a href="https://mitpress.mit.edu/">MIT Press</a></li>
+                            </ul>
+                            </ul>
+                            <p>If you are representing a company, research organization or university and would like to participate in the job fair, please send an email with your contact information to <a href="mailto:aaai22jobfair@aaai.org">aaai22jobfair@aaai.org</a>. In addition, all job fair participants must register at the AAAI registration site via the AAAI-22 Conference Site. A small participation fee is required (complimentary or discounted participation is available to certain levels of sponsors and exhibitors).</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <div class="row align-items-center" id="postings">
+                    <div class="col-lg-12">
+                        <h2 class="display-4 text-center">Sponsor Job Postings</h2>
+                        <h4>Amazon Science</h4>
+                        <ul>
+                            <li>Director, Applied Science, Alexa AI | <a href="https://www.amazon.jobs/en/jobs/1670863/director-applied-science", target="blank">Link</a></li>
+                            <li>Principal Applied Scientist, Alexa AI | <a href="https://www.amazon.jobs/en/jobs/1178770/principal-applied-scientist", target="blank">Link</a></li>
+                            <li>Principal Applied Scientist, Prime Video | <a href="https://www.amazon.jobs/en/jobs/1087786/principal-applied-scientist", target="blank">Link</a></li>
+                            <li>Manager, Applied Science, Robotics AI | <a href="https://www.amazon.jobs/en/jobs/1807045/manager-applied-science-robotics-ai", target="blank">Link</a></li>
+                            <li>Data Scientist, Alexa AI | <a href="https://www.amazon.jobs/en/jobs/1833124/data-scientist-alexa-ai-saif-mlx", target="blank">Link</a></li>
+                        </ul>
+                        <h4>Hitachi, Ltd.</h4>
+                        <ul>
+                            <li>AI Researcher | <a href="PDF22/Hitachi_JobPosting1 - Yuko T.pdf", target="blank">PDF</a></li>
+                            <li>Computer Vision and Media Processing Researcher | <a href="PDF22/Hitachi_JobPosting2 - Yuko T.pdf", target="blank">PDF</a></li>
+                            <li>Media Intelligent Processing Researcher | <a href="PDF22/Hitachi_JobPosting3 - Yuko T.pdf", target="blank">PDF</a></li>
+                        </ul> 
+                        <h4>IBM</h4>
+                        <ul>
+                            <li>IBM Research: Full-Time Opportunities | <a href="PDF22/IBM Research AI - Full-Time Opportunities - Eric Sodomka.pdf", target="blank">PDF</a></li>
+                            <li>IBM Research: Internship Opportunities | <a href="PDF22/IBM Research AI - Internship Opportunities - Eric Sodomka.pdf", target="blank">PDF</a></li>
+                            <li>IBM Research: Connect with us for future opportunities | <a href="PDF22/IBM Research AI - Connect With Us - Eric Sodomka.pdf", target="blank">PDF</a></li>
+                        </ul> 
+                        <h4>Sony</h4>
+                        <ul>
+                            <li>AI/Computer Vision/Robotics/Mechatronics/Data analysis/Reinforcement learning/AI Ethics open roles at Sony | <a href="https://www.sony.com/en/SonyInfo/sony_ai/aaai2022/", target="blank">Link</a></li>
+                        </ul>
+                        <h4>Baidu</h4>
+                        <ul>
+                            <li>Baidu AIDU Program | <a href="PDF22/Baidu AIDU Program - cathy cc.pdf", target="blank">PDF</a></li>
+                            <li>Job Opportunities of Baidu (Full-time and Internship) | <a href="https://talent.baidu.com", target="blank">Link</a></li>
+                        </ul>
+                        <h4>Bloomberg</h4>
+                        <ul>
+                            <li>AI Group - NLP Research Engineer (New York, USA) | <a href="https://careers.bloomberg.com/job/detail/87013", target="blank">Link</a></li>
+                            <li>AI Group - IR Research Engineer (New York, USA) | <a href="https://careers.bloomberg.com/job/detail/87012", target="blank">Link</a></li>
+                        </ul>
+                        <h4>causaLens</h4>
+                        <ul>
+                            <li>Research Scientist - Machine Learning and Causality | <a href="https://causalens.recruitee.com/o/research-scientist-machine-learning-and-causality", target="blank">Link</a></li>
+                            <li>Machine Learning Engineer | <a href="https://causalens.recruitee.com/o/machine-learning-engineer-london", target="blank">Link</a></li>
+                        </ul>
+                        <h4>Dataminr</h4>
+                        <ul>
+                            <li>Research Scientist (Information Retrieval, Complex Networks, Recommender Systems) | <a href="https://grnh.se/9d0eb1e41us", target="blank">Link</a></li>
+                            <li>Research Scientist, NLP | <a href="https://grnh.se/f53a816b1us", target="blank">Link</a></li>
+                        </ul>
+                        <h4>Euler Digital SEZC</h4>
+                        <ul>
+                            <li>Core Blockchain Network Engineer | <a href="PDF22/2022.02.09 Core Blockchain Network Engineer - Job Description - Jacopo Rastrelli.pdf", target="blank">PDF</a></li>
+                            <li>AI-ML Engineer, Developer (AML) | <a href="PDF22/2022.02.09 AI-ML Engineer, Developer (AML) - Job Description - Jacopo Rastrelli.pdf", target="blank">PDF</a></li>
+                        </ul>
+                        <h4>Google</h4>
+                        <ul>
+                            <li>Positions at Google Research | <a href="https://research.google/careers/", target="blank">Link</a></li>
+                            <li>Positions at Google | <a href="https://careers.google.com/", target="blank">Link</a></li>
+                        </ul>
+                        <h4>Microsoft</h4>
+                        <ul>
+                            <li>Career Opportunities at Microsoft Research | <a href="https://www.microsoft.com/en-us/research/event/aaai-2022/opportunities/", target="blank">Link</a></li>
+                        </ul>
+                        <h4>Raytheon Technologies Research Center</h4>
+                        <ul>
+                            <li>Machine Learning Researcher | <a href="https://careers.rtx.com/global/en/job/01462750/Machine-Learning-Researcher", target="blank">Link</a></li>
+                            <li>Computer Vision Research Scientist & Engineer | <a href="https://careers.rtx.com/global/en/job/01461035/Computer-Vision-Research-Scientist-Engineer", target="blank">Link</a></li>
+                            <li>Computer Vision Postdoc | <a href="https://careers.rtx.com/global/en/job/01464834/Computer-Vision-Postdoc", target="blank">Link</a></li>
+                        </ul>
+                        <h4>USC Information Sciences Institute (USC/ISI)</h4>
+                        <ul>
+                            <li>Lead Research Engineer - AI Division | <a href="https://usccareers.usc.edu/job/arlington/lead-research-engineer/1209/22492894912", target="blank">Link</a> | <a href="PDF22/View_Job_Posting_Details Lead Research Engineer - Alma Nava.pdf", target="blank">PDF</a></li>
+                            <li>Research Computer Scientist - AI Division | <a href="https://usccareers.usc.edu/job/los-angeles/research-computer-scientist-artificial-intelligence-division/1209/23455782528", target="blank">Link</a> | <a href="PDF22/Research Computer Scientist - AI Division - Alma Nava.pdf", target="blank">PDF</a></li>
+                        </ul>
+                        <!-- <h4>More Coming Soon!</h4> -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <div class="row align-items-center" id="submit">
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="p-5">
+                            <img class="img-fluid rounded-circle" src="img/cv_pile.jpg" alt="Pile of CVs; image from callcentrehelper.com.">
+                                </div>
+                    </div>
+                    <div class="col-lg-6 order-lg-1">
+                        <div class="p-5">
+                            <h2 class="display-4  text-center">Submit Your CV</h2>
+                            <p>As part of the job fair, attendees are encouraged to submit their CV to all of the participating companies before the job fair.  This will help companies identify and possibly schedule an onsite interview with you when you attend.</p>
+                            <p>Please clearly indicate on your CV or r‌&eacute;sum‌&eacute; your availability and type of job interest, along with contact information!</p>
+                            <p><a href="https://www.dropbox.com/request/fAhpsvUjHTfNItux5Hd3">Upload your CV here to submit to all participating companies.</a>  By uploading your CV, you are agreeing to be contacted by participating and sponsor companies about recruiting and job openings.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        
+        
+        <!-- Footer -->
+        <footer class="py-5 bg-black">
+            <div class="container">
+                <p class="m-0 text-center text-white small">Copyright &copy; <a href="http://jpdickerson.com">John Dickerson</a> 2017&ndash;2022</p>
+            </div>
+            <!-- /.container -->
+        </footer>
+        
+        <!-- Bootstrap core JavaScript -->
+        <script src="vendor/jquery/jquery.min.js"></script>
+        <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        
+    </body>
+    
+</html>
